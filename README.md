@@ -102,4 +102,4 @@
 > **用以下命令查看设置是否成功**  
 > git config --global -l
 
-###转载自B站博主初雨神
+###转载自B站博主初雨神 https://github.com/chuyu2025/chu-star/tree/main/Up_GitHub
